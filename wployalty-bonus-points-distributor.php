@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: WPLoyalty Bonus Point Distributor (TechiEvolve)
+ * Plugin Name: WPLoyalty Bonus Point Distributor
  * Description: Distribute bonus points to customers - supports date-based and CSV upload methods
  * Version: 8.0 - WITH CSV UPLOAD
- * Author: TechiEvolve
+ * Author: Sangeeta
  */
 
 // Prevent direct access
